@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### Hi there 👋, my name is Abdullah
 #### A beginner wep developer  
-![A beginner wep developer  ]
 
 I'm Abdullah, I'm from Yemen, I moved to Belgiumn I speak Arabic English and Dutch. I'm enjoy learing computer science "soft ware" and programing languages. I'm a beginner in programing but I will do my best to be one day professional wep developer. 
 
